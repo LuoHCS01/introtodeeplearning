@@ -136,3 +136,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# llm
+lab3/gemma-2-2b-it
